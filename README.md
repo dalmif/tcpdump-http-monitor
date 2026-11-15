@@ -2,6 +2,9 @@
 
 A realtime HTTP/HTTPS traffic dashboard in your browser. The backend is a single Go binary with the React UI embedded. Everything is kept in memory; there is no database.
 
+<img width="2061" height="1284" alt="Screenshot From 2026-11-15 03-51-13" src="https://github.com/user-attachments/assets/09d73894-0f39-408f-9d77-28da789ffddc" />
+
+
 It captures traffic in two ways, and both show up in the same live view:
 
 | Source | How | What you see |
